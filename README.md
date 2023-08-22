@@ -12,6 +12,6 @@ This repository contains one file called Data_concrete_.csv with 285 concrete sa
 
 Features: Ultrasonic pulse velocity (UPV), Electrical resistivity (Er), Resonance frequency (FR), Tensile strength (Ts), and Compressive strength (CS). 🔥
 
-Variables: Continuos numerical.
+Variables: Continuos numerical. 🎓
 
-Approach: Supervised machine learning problems and regression problems.
+Approach: Supervised machine learning problems and regression problems. 👨🏻‍💻
