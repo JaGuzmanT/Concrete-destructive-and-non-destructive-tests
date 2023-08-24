@@ -1,4 +1,4 @@
-# Concrete-destructive-and-non-destructive-tests 🏫
+# Concrete-destructive-and-non-destructive-tests (dataset) 🏫
 
 This repository contains data from different concrete research involving destructive and non-destructive tests. The concrete samples correspond to different infrastructures located in the region of Morelia, Michoacan, México. All the tests and monitoring were carried out in the laboratory of materials "Ing. Luis Silva Ruelas", which belongs to the Universidad Michoacana de San Nicolás de Hidalgo.
 
